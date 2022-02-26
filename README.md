@@ -12,5 +12,9 @@ The CompareFiles.bat can be executed for the same.
   This program takes the directory name containing Excel files as input and creates a folder called output where the equivalent text files are placed.
   
   Separate Text files will be created for each sheet in the Excel and the Excel name will be in the format - ExcelName_SheetName.txt
+3. **FileName**: XML_Text.py
+  This program formats an XML and converts it to a text file so that it can be compared in any Text comparision utility (CompareFiles.py) 
+  
+  The output files will be in format filename_f.txt where filename.xml is input file.
   
   
